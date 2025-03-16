@@ -11,13 +11,7 @@
   <br><br>
   # `Deploy In Heroku`
 
-
-<a href=https://heroku.com/deploy"><img title="HASI AI" src="https://www.herokucdn.com/deploy/button.svg" width="400"></a>
-
-
-<!---->
-
-then Deploy The Bot From [Here](https://heroku.com/deploy)
+ Deploy The Bot From [Here](https://heroku.com/deploy)
 
 
   ### ⚠️ Deploy With New Session? <br>
