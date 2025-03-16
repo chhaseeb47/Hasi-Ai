@@ -12,12 +12,12 @@
   # `Deploy In Heroku`
 
 
-<a href="https://gist.github.com/Hasi-Ai/4a3f940e9e65eee62fd76ffebf302cf1"><img title="HASI AI" src="https://www.herokucdn.com/deploy/button.svg" width="400"></a>
+<a href=https://heroku.com/deploy"><img title="HASI AI" src="https://www.herokucdn.com/deploy/button.svg" width="400"></a>
 
 
 <!---->
 
-
+then Deploy The Bot From [Here](https://heroku.com/deploy)
 
 
   ### ⚠️ Deploy With New Session? <br>
